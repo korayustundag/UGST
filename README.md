@@ -14,14 +14,7 @@ UGST Sadece Türkiye'de geçerli bir sistemdir. Amacımız, Sizlere satın almas
 
 Örnek vermek gerekirse: Windows işletim sistemlerinde Program çıktısı(Executable) dosyalara sağ tıklayıp **Yönetici Olarak Çalıştır** dediğimizde bize programın güvenli olmadığını söyler ve yayımcının adını göstermez.
 
-```mermaid
-graph TD
-A[KOD] --> B(Derleme İşlemi)
-B --> |Sertifika Olmadan!| C{Program Çıktısı}
-C -->|Güvenlik Uyarısı| D[fa:fa-unlock Windows]
-C -->|Güvenlik Uyarısı| E[fa:fa-unlock OS X]
-C -->|Güvenlik Uyarısı| F[fa:fa-unlock Linux]
-```
+![Sertifika Olmadan](./images/sequence.png)
 
 ## Kod İmzalama Sertifikası Olunca İşlemler Nasıl Olur!
 

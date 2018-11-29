@@ -14,20 +14,13 @@ UGST Sadece Türkiye'de geçerli bir sistemdir. Amacımız, Sizlere satın almas
 
 Örnek vermek gerekirse: Windows işletim sistemlerinde Program çıktısı(Executable) dosyalara sağ tıklayıp **Yönetici Olarak Çalıştır** dediğimizde bize programın güvenli olmadığını söyler ve yayımcının adını göstermez.
 
-![Sertifika Olmadan](./images/sequence.png)
+![Sertifika Olmadan](./images/mermaid-diagram-20181129225923.svg)
 
 ## Kod İmzalama Sertifikası Olunca İşlemler Nasıl Olur!
 
 Örnek vermek gerekirse: Windows işletim sistemlerinde Program çıktısı(Executable) dosyalara sağ tıklayıp **Yönetici Olarak Çalıştır** dediğimizde bize programın güvenli olduğunu söyler ve yayımcının adını gösterir.
 
-```mermaid
-graph TD
-A[KOD] --> B(Derleme İşlemi)
-B --> |Sertifika ile!| C{Şifreli Program Çıktısı}
-C -->|Güvenilir Program| D[fa:fa-lock Windows]
-C -->|Güvenilir Program| E[fa:fa-lock OS X]
-C -->|Güvenilir Program| F[fa:fa-lock Linux]
-```
+![Sertifika İle](./images/mermaid-diagram-20181129230016.svg)
 
 
 ## Nasıl Ücretsiz Sertifika Alabilirim?

@@ -1,7 +1,7 @@
 # Welcome to UGST!
 
 Hello, **Free Security Certification Community** will soon serve the whole world. Currently only it serves to **Turkey**. So what is **UGST**?
-	-**UGST** is a community that offers you a free code signing certificate.
+- **UGST** is a community that offers you a free code signing certificate.
 Soon it will be everywhere...
 Thank you for your attention...
 

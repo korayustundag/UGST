@@ -25,9 +25,9 @@ UGST Sadece Türkiye'de geçerli bir sistemdir. Amacımız, Sizlere satın almas
 
 ## Nasıl Ücretsiz Sertifika Alabilirim?
 
-1. İlk önce [UGST Root CA](https://www.ugst-trust.com/CA/ca.crt) sertifikasını indirip bilgisayarınızın güvenilir kök sertifika yetkililerinin içine yüklemeniz gerekmektedir.
+1. İlk önce [UGST Root CA](https://korayustundag.github.io/UGST/CertificateAuthority/cacert.zip) sertifikasını indirip bilgisayarınızın güvenilir kök sertifika yetkililerinin içine yüklemeniz gerekmektedir.
 >**NOT:** Bu işlemi yapmazsanız almış olduğunuz ücretsiz sertifikalar, güvenik uyarısı verir.
-2. [Buraya Tıklayarak](https://www.ugst-trust.com/csr/) CSR kodu oluşturunuz. Oluşturduğunuz CSR kodunun yanında size birde Private Key yani Özel Anahtar verilecektir. 
+2. [Buraya Tıklayarak](https://decoder.link/csr_generator) CSR kodu oluşturunuz. Oluşturduğunuz CSR kodunun yanında size birde Private Key yani Özel Anahtar verilecektir. 
 >**NOT:** Size verilen **Private Key** yani özel anahtarınızı saklayınız! Yoksa Sertifikayı kullanamazsınız!
 3. CSR Kodunu [ugsttrustservices@gmail.com](mailto:ugsttrustservices@gmail.com) mail adresine mail gönderiniz.
 

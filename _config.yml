@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: UGST Trust Services
 show_downloads: true
 description: Ücretsiz Kod İmzalama Sertifikaları
+github:
+  zip_url: http://example.com/download.zip
